@@ -57,7 +57,8 @@
 |---|---|
 | **Windows 10 / 11** | [官网下载页](https://inkore.ink/download.html)（.exe 安装包） |
 | **浏览器（Web 版）** | [app.inkore.ink](https://app.inkore.ink) · 即开即用 |
-| **macOS · Android** | 规划中 |
+| **macOS · Universal** | [官网下载页](https://inkore.ink/download.html)（.dmg 安装包，支持 Intel 与 Apple Silicon；未公证，首次打开需手动放行） |
+| **Android** | 规划中 |
 
 > 免费基础版已涵盖除 PRO 导出模板及自定义主题 / 字体外的几乎全部功能。建议先在浏览器试用，再决定是否下载。
 
